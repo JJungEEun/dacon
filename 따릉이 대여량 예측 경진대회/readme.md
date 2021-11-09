@@ -4,6 +4,7 @@
 
 # 학습데이터
 
+--- | --- |
 date_time | 일별날짜
 wind_direction | 풍향(degree)
 sky_condition | 하늘 상태
