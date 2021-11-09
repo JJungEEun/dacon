@@ -3,8 +3,8 @@
 
 
 # 학습데이터
-
---- | --- |
+label|설명
+---|---|
 date_time | 일별날짜
 wind_direction | 풍향(degree)
 sky_condition | 하늘 상태
